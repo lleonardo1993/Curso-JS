@@ -12,7 +12,7 @@ executaFuncao(SouUmDado);
 
 // funcao decrada com a palavra function ou a function express tem um parametro arguments que sustenta todos
 // os argumentos enviados.
-
+ 
 function funcao(){
     total = 0;
     for(let argumento of arguments){
